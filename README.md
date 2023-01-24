@@ -53,7 +53,6 @@ After defining the use case, it was decided to define OXILATE as the CHATGPT FOR
 
 
 
-
 # System Diagram
 
 
