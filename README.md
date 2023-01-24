@@ -1,13 +1,11 @@
 # OXILATE-INSURTECH-ESP A GPT-BASED ASSISTANT FOR COLLECTIVE INTELLIGENCE MOBILIZATION
-Here is a simple footnote[^1].
-
 
 
 # The motivation
 
 TyP and SII CONCATEL have focused on the use case: "Improved services and tools that support the Smart Insurtech lifecycle".  Insuretech, is created after joining the words: insurance and technology. Insurtech or Insuretech, are the associated words to refer to this term, although Insuretech is used much less frequently.
 
-Insurtech, in a very summarized form is a term that refers to the concept or the ability to apply the potential of all the new technologies to the insurance sector.
+Insurtech, in a very summarized form [1] is a term that refers to the concept or the ability to apply the potential of all the new technologies to the insurance sector.
 
 These digital technologies make it possible to bring greater quality and efficiency to the insurance industry. They enable greater traceability, scalability, data quality and security, which is essential for the industry.
 
@@ -21,9 +19,9 @@ The Insuretech context, like the other industries targeted by the project, faces
 
 - Impact of globalization and new scenario associated with new data access technologies.
 
-As reflected in the "Cognizant Perspectives" [^2] series of articles, the insurance industry faces an added challenge: a large part of its workforce will retire in the coming years.
+As reflected in the "Cognizant Perspectives" [2] series of articles, the insurance industry faces an added challenge: a large part of its workforce will retire in the coming years.
 
-In addition, a recent study by Oxford Economics [^3], established that more than 83% of insurance executives rely on consultants and temporary workers to respond to market demand. TYP, through the generation of expert knowledge from the entire life cycle of products and services and the provision of improved tools to professionals in its different business units, seeks to facilitate:
+In addition, a recent study by Oxford Economics [3], established that more than 83% of insurance executives rely on consultants and temporary workers to respond to market demand. TYP, through the generation of expert knowledge from the entire life cycle of products and services and the provision of improved tools to professionals in its different business units, seeks to facilitate:
 
 - Respond to the needs of including inexperienced workforce.
 
@@ -59,12 +57,12 @@ After defining the use case, it was decided to define OXILATE as the CHATGPT FOR
 
 
 
-# footnotes
+# References
 
-[^1] Insurtech - https://es.wikipedia.org/wiki/Insurtech
+[1] Insurtech - https://es.wikipedia.org/wiki/Insurtech
 
-[^2] https://www.cognizant.com/perspectives/overcoming-the-insurance-talent-gap-with-collective-intelligence-part1
+[2] https://www.cognizant.com/perspectives/overcoming-the-insurance-talent-gap-with-collective-intelligence-part1
 
-[^3] http://www.oxfordeconomics.com/publication/open/250945
+[3] http://www.oxfordeconomics.com/publication/open/250945
 
 
