@@ -40,11 +40,17 @@ OXILATE will be a meeting point for customers and industry professionals, and wi
 
 For the definition of the use case, during this first milestone, different meetings have been held with key entities of the sector, to first understand -and then generalize- the context of the sector. In order to speed up and dynamize the meetings with users and interested entities, a presentation has been generated, which has facilitated the involvement of different users in the definition of requirements.
 
-Illustration 2 Use Case Presentation - Insurtech Digital Assistant
+
+ 	 
+
+![oxilate-esp-1](https://user-images.githubusercontent.com/73121692/214372764-33dce3d1-4fe7-4c03-8906-f2f27a877a43.png)
+
+
+Illustration 1 Use Case Presentation - Insurtech Digital Assistant - emerging technologies
 
 After defining the use case, it was decided to define OXILATE as the ALEXA FOR COMPANIES, in order to facilitate the assimilation of the concept by those initial target companies in the insurance sector immersed in the initial stages of digital transformation, which understand that they must evolve, but have not assimilated the benefits of new technologies and concepts. An assistant to help these companies leverage their knowledge and meet talent gaps by reducing overhead, bolstering performance and ensuring rapid adaptation to emerging market demands to shorten development lifecycles.
 
-Illustration 3 Use Case Presentation: ALEXA for Insurance Companies
+Illustration 2 Use Case Presentation: ALEXA for Insurance Companies
 
 
 # System Diagram
