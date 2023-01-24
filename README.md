@@ -5,7 +5,7 @@
 
 TyP and SII CONCATEL have focused on the use case: "Improved services and tools that support the Smart Insurtech lifecycle".  Insuretech, is created after joining the words: insurance and technology. Insurtech or Insuretech, are the associated words to refer to this term, although Insuretech is used much less frequently.
 
-Insurtech, in a very summarized form [^1], is a term that refers to the concept or the ability to apply the potential of all the new technologies to the insurance sector.
+Insurtech, in a very summarized form[^1][^1] is a term that refers to the concept or the ability to apply the potential of all the new technologies to the insurance sector.
 
 These digital technologies make it possible to bring greater quality and efficiency to the insurance industry. They enable greater traceability, scalability, data quality and security, which is essential for the industry.
 
@@ -59,7 +59,7 @@ After defining the use case, it was decided to define OXILATE as the CHATGPT FOR
 
 # footnotes
 
-[^1] Insurtech - https://es.wikipedia.org/wiki/Insurtech
+[^1][^1] Insurtech - https://es.wikipedia.org/wiki/Insurtech
 
 [^2] https://www.cognizant.com/perspectives/overcoming-the-insurance-talent-gap-with-collective-intelligence-part1
 
