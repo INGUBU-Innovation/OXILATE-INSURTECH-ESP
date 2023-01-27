@@ -55,6 +55,32 @@ After defining the use case, it was decided to define OXILATE as the CHATGPT FOR
 
 # System Diagram
 
+The OXILATE-INSURTECH framework is composed of four main components. 
+
+## Data acquistion module
+
+![OXILATE-DATA-ACQUISITION-HL-DIAGRAMA](https://user-images.githubusercontent.com/73121692/215027894-1c99362c-dc16-4e5a-a467-1a96918e9406.png)
+
+
+
+
+## Knowledge capturing and adaptation module
+
+![OXILATE-HIGHLEVELDIAGRAM - OXILATE-KNOWLEDGE-CAPTURING](https://user-images.githubusercontent.com/73121692/215027947-b00946cb-1331-4496-819e-54e651300ec3.png)
+
+
+## AI-based Assistant module
+
+
+![OXILATE-HIGHLEVELDIAGRAM - OXILATE-SMARTSERVICEAPI](https://user-images.githubusercontent.com/73121692/215027964-9cffeeae-b0c7-43f0-89d1-fcd65f01e0db.png)
+
+
+## User Interface: implementation for insurance brokers
+
+
+![UI-Sample](https://user-images.githubusercontent.com/73121692/215028219-6901c840-3321-4ed3-a471-0f71bff049a2.png)
+
+
 
 
 # References
