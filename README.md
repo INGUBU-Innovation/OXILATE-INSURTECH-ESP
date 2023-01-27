@@ -75,7 +75,7 @@ This module records information on procedures and tutorials. It processes all ex
 
 ![OXILATE-HIGHLEVELDIAGRAM - OXILATE-SMARTSERVICEAPI](https://user-images.githubusercontent.com/73121692/215027964-9cffeeae-b0c7-43f0-89d1-fcd65f01e0db.png)
 
-This module is combining the power of Knowledge Graphs and GPT. Recently, this has been defined as  "Retrieval Augmented Generation"[4]. That is, we combine the power of a knowledge graph, relying on links and nodes that defined with natural language, and the power of GPT to, given pieces of text, combine all pieces and create a sound speech. Also, in the other direction, the GPT-based few-shot learning [5] allows to ease the ingestion of information in the graph. 
+This module is combining the power of Knowledge Graphs and GPT. Recently, this has been defined as  "Retrieval Augmented Generation"[4][5]. That is, we combine the power of a knowledge graph, relying on links and nodes that defined with natural language, and the power of GPT to, given pieces of text, combine all pieces and create a sound speech. Also, in the other direction, the GPT-based few-shot learning [6] allows to ease the ingestion of information in the graph. 
 
 
 ## User Interface: implementation for insurance brokers
@@ -94,5 +94,7 @@ This module is combining the power of Knowledge Graphs and GPT. Recently, this h
 
 [4] https://arxiv.org/abs/2005.11401
 
-[5] https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
+[5] https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
+
+[6] https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
 
